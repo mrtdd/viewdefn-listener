@@ -1,0 +1,9 @@
+{
+  "files": ["index.ts"],
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./",
+    "sourceMap": true
+  }
+}
